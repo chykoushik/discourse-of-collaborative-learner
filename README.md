@@ -10,15 +10,11 @@ learners so they could refer to each other correctly. The dataset
 was collected from a focus group experiment designed for students
 in the Educational Technology Department at Saarland University.
 The report gives a clear idea of how the collected dataset has been
-
 coded and validated with the help of intercoder reliability measure-
 ments. After data preprocessing, state-of-the-art data augmentation
-
 techniques such as spelling, insertion, substitution, and synonym
-
 augmentation are applied. The thesis examines various neural net-
 work models to identify the best model for the dataset. Among
-
 them, Bidirectional Encoder Representations from Transformers
 (BERT) provides the best performance with an accuracy of 0.94 and
 a 0.17 loss value for the augmented preprocessed dataset, where
