@@ -1,3 +1,5 @@
+ <div align="justify"> 
+
 Collaborative learning is a method of education in which a group of learners solves a particular task. A collaborative setting encourages learners to take a more active role in knowledge construction. However, when they communicate on a virtual platform such as a chat 
 platform, it is important that they can refer to each other correctly
 so that they can improve their learning activities with the help of
@@ -30,3 +32,4 @@ model poisoning so that when the model is updated, it can tackle
 the unclassified responses. Finally, a simple demo of how this
 BERT model is used to regularize the discourse of two collaborative
 learners is presented with the help of the Jupyter interface.
+</div>
